@@ -37,9 +37,9 @@ const Home = () => {
             animate="show"
             exit="hidden"
           >
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut,
-            veritatis a soluta non minus delectus porro rerum rem odit vel hic
-            quos quam id possimus impedit doloribus quasi recusandae excepturi
+            Innovating is not just a job for me, its a passion and my obesession. 
+              Whatever your idea: to build a mobile application, a desktop application, 
+              a new electronic gadget or even fabricate a new product, I and my team will bring your idea to life if you can pay for it.
           </motion.p>
           <div className="flex justify-center xl:hidden relative z-40">
          
