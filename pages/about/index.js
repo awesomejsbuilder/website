@@ -1,3 +1,4 @@
+import Head from "next/head"
 // icons
 import {
   FaHtml5,
@@ -89,7 +90,11 @@ const aboutData = [
 ];
 
 const About = () => {
-  return <div>About</div>;
+  return <div>
+    <Head>
+      <title>About Adeboye Thompson</title>
+    </Head>
+    About</div>;
 };
 
 export default About;
