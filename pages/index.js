@@ -41,7 +41,7 @@ const Home = () => {
             veritatis a soluta non minus delectus porro rerum rem odit vel hic
             quos quam id possimus impedit doloribus quasi recusandae excepturi
           </motion.p>
-          <div className="flex justify-center xl:hidden relative">
+          <div className="flex justify-center xl:hidden relative z-40">
          
             <ProjectsBtn />
             
